@@ -14,7 +14,7 @@ class Scraper
     doc.css("div.student-card a")
     
 
-        binding.pry
+        
   
   
   end
